@@ -3,7 +3,7 @@
 Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-end and back-end technologies. Freelancer & **Vue.js Developer @Teresol** since Oct 2022.
 
 **Interested to work with me ?**
-[Hire Me on Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e)     OR     [Visit My Portfolio Website](https://majidev.netlify.app/)
+[Hire Me on Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e)    OR    [Visit My Portfolio Website](https://majidev.netlify.app/)
 
 ## My Skill-Set
 - **Languages**
