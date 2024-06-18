@@ -10,6 +10,7 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
     - Javascript
     - Typescript
 - **Tech Stacks**
+  
 |    Front-End        |    Back-end     |    Databases          |    Version Control          |
 |    :------------:   |    :-------:    |    :-------------:    |    :-------------------:    |
 |    React.js         |    Node.js      |    PostgreSQL         |    Git                      |
