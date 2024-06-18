@@ -1,6 +1,18 @@
 ## Majid Ali, Full Stack Web Developer
 
 Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-end and back-end technologies. Freelancer & **Vue.js Developer @Teresol** since Oct 2022.
+## Contact Me
+[LinkedIn](https://www.linkedin.com/in/majid-ali-074b97245/)    
+[Facebook Page](https://www.facebook.com/groups/246606200063950/?ref=share_group_link)    
+[Instagram](https://instagram.com/majid_ali_wattu?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)    
+[Mail](mailto:majidaliqau@gmail.com)    
+[Whatsapp](https://wa.me/923275065850)    
+[Medium](https://medium.com/@majid.teresol)    
+
+##
+**Interested to work with me ?**
+[Hire Me on Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e)
+
 ## My Skill-Set
 - **Languages**
     - Javascript
@@ -31,3 +43,7 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
 [Mail](mailto:majidaliqau@gmail.com)    
 [Whatsapp](https://wa.me/923275065850)    
 [Medium](https://medium.com/@majid.teresol)    
+
+##
+**Interested to work with me ?**
+[Hire Me on Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e)
