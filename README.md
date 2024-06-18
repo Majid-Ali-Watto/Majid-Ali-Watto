@@ -4,6 +4,7 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
 
 **Interested to work with me ?**
 [Hire Me on Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e)
+[Visit My Portfolio Website](https://majidev.netlify.app/)
 
 ## My Skill-Set
 - **Languages**
