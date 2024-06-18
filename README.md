@@ -1,4 +1,4 @@
-## Hi there 👋, I'm MAJID ALI
+## Majid Ali, Full Stack Web Developer
 
 <!--
 **Majid-Ali-Watto/Majid-Ali-Watto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Pakistan based **Full Stack Web Developer** skilled in both front-end and back-end technologies. Freelancer & **Vue.js Developer @Teresol** since Oct 2022.
+Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-end and back-end technologies. Freelancer & **Vue.js Developer @Teresol** since Oct 2022.
