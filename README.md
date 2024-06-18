@@ -20,18 +20,7 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
     - Javascript
     - Typescript
       
-- **Front-End**
-    - React.js
-    - Vue.js
-    - CSS3
-    - HTML5
-    - Tailwindcss
-    - Vuex
-    - Redux
-    - Element Plus
-- **Back-end**
-  - Node.js
-  - Express.js
+
 - **Databases**
   - PostgreSQL
   - MySQL
@@ -40,8 +29,15 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
 - **Version Control**
   - Git
 
-|    Front-End    |    Back-end    |
-|    :--------:   |    :-------:    |
+|    Front-End        |    Back-end    |
+|    :------------:   |    :-------:    |
 |    React.js    |    Node.js    |
+|    Vue.js       |    Express.js    |
+|    CSS3        |
+|    HTML5        |
+|    Tailwindcss    |
+|    Vuex        |
+|    Redux    |
+|    Element Plus    |
 
 
