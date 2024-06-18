@@ -39,8 +39,8 @@ Hi 👋, I'm Pakistan based **Full Stack Web Developer** skilled in both front-e
   - Firebase
 - **Version Control**
   - Git
-| Front-End | Back-end |
-|----------|-----------|
-|  React.js | Node.js |
+|    Front-End    |    Back-end    |
+|    :--------:   |    :-------:    |
+|    React.js    |    Node.js    |
 
 
