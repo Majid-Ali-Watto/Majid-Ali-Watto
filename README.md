@@ -3,7 +3,7 @@
 
 ### About Me
 > I’m currently working on banking project for **Bank Al Habib Limited** as **Software Design Engineer @[Teresol](https://www.linkedin.com/company/teresolpvtltd/mycompany/) Pvt Ltd, Islamabad** since Oct 2022.<br><br>
-- I’m currently learning **Micro Front-ends and Micro Services.**<br><br>
+- I’m currently working on **Micro Front-ends and Micro Services.** Visit my organization : [https://github.com/majidev-org](https://github.com/majidev-org/)/<br><br>
 - My projects' live links are available at [https://majidev.netlify.app/](https://majidev.netlify.app/)<br><br>
 - I sometimes write articles on [https://medium.com/@majid.teresol](https://medium.com/@majid.teresol)<br><br>
 - Ask me about **React, Vue, Node.**<br><br>
