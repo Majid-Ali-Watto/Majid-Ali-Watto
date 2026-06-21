@@ -2,7 +2,7 @@
 
 
 ### About Me
-> I’m currently working on banking project for **Saudi AZM Marketplace** as **Software Engineer (II) @[AZM Development](https://pk.linkedin.com/company/azm-development) Pvt Ltd, Islamabad**<br><br>
+> I’m currently working on Inheritance and Bidding (Marketplace) projects for **Saudi AZM** subsidary **[AZM Development](https://pk.linkedin.com/company/azm-development) Pvt Ltd, Islamabad as Software Engineer (II)**<br><br>
 - I’m currently working on **Micro Front-ends and Micro Services.** Visit my organization : [https://github.com/majidev-org](https://github.com/majidev-org/)/<br><br>
 - My projects' live links are available at [https://majidev.netlify.app/](https://majidev.netlify.app/)<br><br>
 - I sometimes write articles on [https://medium.com/@majid.teresol](https://medium.com/@majid.teresol)<br><br>
