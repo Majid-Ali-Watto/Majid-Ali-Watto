@@ -4,7 +4,7 @@
 
 ## About
 
-Full Stack Web Developer with <!--experience:2025-09-15~Present,2025-04-25~2025-09-01,2022-10-24~2025-04-25-->**3Y 11M**<!--/experience--> of experience specializing in Vue, React, Node.js, and Express. Proficient in building scalable micro front-end architectures, modernizing legacy systems, and delivering efficient, user-focused solutions. Skilled in optimizing performance and developing reusable components for seamless software delivery.
+Full Stack Web Developer with <!--experience:2025-09-15~Present,2025-04-25~2025-09-01,2022-10-24~2025-04-25-->**4Y 0M**<!--/experience--> of experience specializing in Vue, React, Node.js, and Express. Proficient in building scalable micro front-end architectures, modernizing legacy systems, and delivering efficient, user-focused solutions. Skilled in optimizing performance and developing reusable components for seamless software delivery.
 
 ## 🚀 Building [LocalhostOnly.tech](https://localhostonly-tech.vercel.app/)
 
