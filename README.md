@@ -16,7 +16,7 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 
 ## 💼 Experience
 
-- **Software Engineer (II)** · AZM Developement, Islamabad · Sep 2025 – Present (<!--duration:2025-09-15~Present-->1Y 1M<!--/duration-->)
+- **Software Engineer (II)** · AZM Developement, Islamabad · Sep 2025 – Present (<!--duration:2025-09-15~Present-->1Y 2M<!--/duration-->)
   - Tarekat Marketplace — Full Stack
   - Merath
 - **Full Stack Web Developer** · Aslase Pvt Ltd, Lahore · Apr 2025 – Sep 2025 (<!--duration:2025-04-25~2025-09-01-->0Y 4M<!--/duration-->)
