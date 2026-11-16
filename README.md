@@ -16,7 +16,7 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 
 ## 💼 Experience
 
-- **Software Engineer (II)** · AZM Developement, Islamabad · Sep 2025 – Present (<!--duration:2025-09-15~Present-->1Y 2M<!--/duration-->)
+- **Senior Software Engineer (I)** · AZM Developement, Islamabad · Sep 2025 – Present (<!--duration:2025-09-15~Present-->1Y 2M<!--/duration-->)
   - Tarekat Marketplace — Full Stack
   - Merath
 - **Full Stack Web Developer** · Aslase Pvt Ltd, Lahore · Apr 2025 – Sep 2025 (<!--duration:2025-04-25~2025-09-01-->0Y 4M<!--/duration-->)
@@ -34,6 +34,15 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 
 ## 📂 Projects
 
+- **Kharchafy — Group Expense, Loans, and Personal Budget Hub** — [Live](https://kharchafy-khata-application.vercel.app/) · [Code](https://github.com/Majid-Ali-Watto/group-expense-tracker)<br>
+  Kharchafy is a Vue 3 + Pinia single-page app for running small-group or household finances. It keeps shared expenses, shared loans, personal loans, and personal salary budgets in one place, backed by Cloud Firestore and Cloudinary for receipt storage. Every sensitive change flows through member approvals, so nothing destructive happens without consensus.<br>
+  `HTML` `CSS` `JavaScript` `Vue.js` `Pinia` `Cloud Firestore` `Cloudinary` `Node.js` `Express.js`
+- **YouTube Split Scroll: Comments Left & Docked Player** — [Code](https://github.com/Majid-Ali-Watto/youtube-split-scroll)<br>
+  Fixes YouTube's watch page: comments back under the video, independent left/right scrolling, and the player, title and actions stay docked on the right while you read comments.<br>
+  `CSS` `JavaScript` `Extension`
+- **ShadowDev** — [Code](https://github.com/Majid-Ali-Watto/shadowdev)<br>
+  An AI team server that automates Jira workflows. Using Claude Code, it analyzes assigned tasks, modifies repos, and runs sandbox tests. It then opens a PR using the developer's own GitHub token. Multi-account mapping links any personal or office Jira, GitHub, and Anthropic credentials to specific project database rows per developer.<br>
+  `Python` `JavaScript` `CSS` `Claude` `Jira` `Github` `Slack`
 - **Dockcrate — Docker & CI/CD Generator** — [Live](https://dockcrate.vercel.app/) · [Code](https://github.com/Majid-Ali-Watto/Dockcrate)<br>
   A CLI and web app that generates Dockerfiles, Docker Compose, CI/CD pipelines, and deployment configs for new projects. Choose from popular stacks and providers, preview the files, then copy or download them—or write them into a project folder with the CLI.<br>
   `Node.js` `Next.js` `React` `JavaScript` `Docker` `CI/CD`
@@ -52,9 +61,6 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 - **Docker Control Panel** — [Code](https://github.com/Majid-Ali-Watto/docker-control-panel-linux)<br>
   A graphical Docker manager for Linux — control containers, images, volumes, networks, Compose projects, and live stats without typing docker commands.<br>
   `Python` `PyQt5` `Docker` `Shell`
-- **Kharchafy — Group Expense, Loans, and Personal Budget Hub** — [Live](https://kharchafy-khata-application.vercel.app/) · [Code](https://github.com/Majid-Ali-Watto/group-expense-tracker)<br>
-  Kharchafy is a Vue 3 + Pinia single-page app for running small-group or household finances. It keeps shared expenses, shared loans, personal loans, and personal salary budgets in one place, backed by Cloud Firestore and Cloudinary for receipt storage. Every sensitive change flows through member approvals, so nothing destructive happens without consensus.<br>
-  `HTML` `CSS` `JavaScript` `Vue.js` `Pinia` `Cloud Firestore` `Cloudinary` `Node.js` `Express.js`
 - **Linux GUI Command Helper App** — [Code](https://github.com/Majid-Ali-Watto/office-helper-react-vite-electron)<br>
   This project is a React-based GUI application designed to run on Linux systems. It serves as a convenient interface for managing system commands, folder operations, Git repositories, and NPM configurations.<br>
   `React.js` `HTML` `CSS` `JavaScript` `Electron.js` `Node.js`
