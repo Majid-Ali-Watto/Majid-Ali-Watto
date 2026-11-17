@@ -89,7 +89,7 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 [LinkedIn](https://www.linkedin.com/in/majid-ali-074b97245/) · [Github](https://github.com/Majid-Ali-Watto) · [Email](mailto:majidaliqau@gmail.com) · [Whatsapp](https://wa.me/923275065850) · [Medium](https://medium.com/@majid.teresol) · [Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e) · [LocalhostOnly.tech](https://localhostonly-tech.vercel.app/)
 
 # 📊 GitHub Stats
-![Profile Views](https://my-stats-of-github.vercel.app/)
+[![Profile views](https://img.shields.io/badge/Profile%20views-Visible-brightgreen?logo=github)](https://my-stats-of-github.vercel.app/)
 ![](https://github-readme-stats.vercel.app/api?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
