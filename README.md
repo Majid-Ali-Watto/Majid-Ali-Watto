@@ -96,6 +96,6 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 
 ![](https://github-readme-stats.vercel.app/api?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <sub>Generated from my portfolio, [majidev.netlify.app](https://majidev.netlify.app).</sub>
