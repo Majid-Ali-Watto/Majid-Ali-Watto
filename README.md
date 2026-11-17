@@ -8,7 +8,7 @@ Full Stack Web Developer with <!--experience:2025-09-15~Present,2025-04-25~2025-
 
 ## 🚀 Building [LocalhostOnly.tech](https://localhostonly-tech.vercel.app/)
 
-**Full Stack Software Delivery Company** · _Launching Soon_
+**Full Stack Software Delivery Company** · _Launching Soon_  
 
 I'm starting LocalhostOnly.tech — a lean, project-based software delivery company for founders and operations teams who need senior full-stack execution without the overhead of a large agency. We build reliable web apps, backend APIs, and DevOps pipelines, and stay on for launch support after ship.
 
@@ -89,7 +89,7 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 [LinkedIn](https://www.linkedin.com/in/majid-ali-074b97245/) · [Github](https://github.com/Majid-Ali-Watto) · [Email](mailto:majidaliqau@gmail.com) · [Whatsapp](https://wa.me/923275065850) · [Medium](https://medium.com/@majid.teresol) · [Upwork](https://www.upwork.com/freelancers/~018c214d3139f0f30e) · [LocalhostOnly.tech](https://localhostonly-tech.vercel.app/)
 
 # 📊 GitHub Stats
-![Profile views](https://my-stats-of-github.vercel.app/api/badge)
+<img src="https://my-stats-of-github.vercel.app/api/badge?v=1" alt="Profile views" />
 ![](https://github-readme-stats.vercel.app/api?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
