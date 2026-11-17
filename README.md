@@ -90,12 +90,4 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 
 # 📊 GitHub Stats
 
-[![Profile views](https://img.shields.io/badge/Profile%20views-17-brightgreen?logo=github)](https://github.com/Majid-Ali-Watto/my-github-stats)
-
-[![Profile views](https://my-stats-of-github.vercel.app/api/badge?repo=my-github-stats&v=1)](https://github.com/Majid-Ali-Watto/my-github-stats)
-
-![](https://github-readme-stats.vercel.app/api?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Ali-Watto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <sub>Generated from my portfolio, [majidev.netlify.app](https://majidev.netlify.app).</sub>
