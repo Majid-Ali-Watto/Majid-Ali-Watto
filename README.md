@@ -17,12 +17,8 @@ I'm starting LocalhostOnly.tech — a lean, project-based software delivery comp
 ## 💼 Experience
 
 - **Senior Software Engineer (I)** · AZM Developement, Islamabad · Sep 2025 – Present (<!--duration:2025-09-15~Present-->1Y 2M<!--/duration-->)
-  - Tarekat Marketplace — Full Stack
-  - Merath
 - **Full Stack Web Developer** · Aslase Pvt Ltd, Lahore · Apr 2025 – Sep 2025 (<!--duration:2025-04-25~2025-09-01-->0Y 4M<!--/duration-->)
-  - Mabadla (Takafo+) Hiring Platform
 - **Full Stack Web Developer** · Teresol Pvt Ltd, Islamabad · Oct 2022 – Apr 2025 (<!--duration:2022-10-24~2025-04-25-->2Y 6M<!--/duration-->)
-  - Bank Al-Habib Limited Core Banking System
 
 ## 🛠️ Skills
 
